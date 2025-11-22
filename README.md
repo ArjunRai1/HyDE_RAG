@@ -63,5 +63,5 @@ HyDE-RAG bridges the gap between how people ask questions and how information is
 - **Quality depends on the hypothetical answer**  
   If the imagined answer is poor, the retrieval quality may drop.
 
-  - **Hallunication**  
+- **Hallunication**  
   If the LLM that generates hypothetical answers doesn't have any knowledge(training) of the user query whatsoever, the system tends to hallucinate.
